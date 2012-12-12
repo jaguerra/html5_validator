@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'bundler'
-Bundler.require
+Bundler.setup
 require 'json'
 require 'rest_client'
 require 'rspec'
